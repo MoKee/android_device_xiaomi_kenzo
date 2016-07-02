@@ -4,6 +4,10 @@
    "target_path": "external/stlport"
  },
  {
+   "repository": "android_external_busybox",
+   "target_path": "external/busybox"
+ },
+ {
    "repository": "android_vendor_xiaomi_kenzo",
    "target_path": "vendor/xiaomi/kenzo"
  }
